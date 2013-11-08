@@ -47,40 +47,38 @@ public class Jueves24 {
 				mensaje.compareTo("Hola, Mundo");
 				int n = mensaje.compareTo("hola, Mundo");
 				//Si son iguales tiene que aparecer cero
-						
-				System.out.println(n);
+											
+				System.out.println(n); 
 				
 									
 				//Para saber si son  iguales se utiliza boolean
 						
 				String mensaje1 = "H";
-				boolean m = mensaje1.equals("Hola Mundo");
-					
+				boolean m = mensaje1.equals("Hola Mundo");//esta funcion devuelve false o true
+				
+				boolean p = c ==a; //devuelve false o true dependiendo si c es igual a a o no
 				System.out.println(n);
 				m= c == a;
 				System.out.println("c es igual a a" + n);
-				
-			{
+							
 				int z = 0;
 				
-				______________________________________________________________________---
+	}
+	
+}
+				
 			
-				a = 3;
-				b = (2 * 5)+(3 / 2);
-				c = b / a;
-				d = Math.sqrt(a); // esto se utiliza para las raices cuadradas Math.
-				d = a % b;
-				System.out.println("a: "+ a + " b: " + b + " b/a= " + c + " d = " + d );		
-				// La clase Math contiene metodos aritmeticos para uso general.		
-				long l = 0; // int largo
-				short s = 0; // int corto
-				// Precedencias de los operadores: *, /, %, y luego +, -
-				// Operadores logicos: producen un resultado booleano o logico. ( true o false )
-				// >, >=, <, <=, ==, != (distinto)
-				// Las cadenas no se comparan con estos operadores.
-				boolean n;
-				n = c!=a;
-				System.out.println(n);
+			
+	
+				
+				
+			      
+				
+				
+				
+				
+				
+				
 				
 				
 			
